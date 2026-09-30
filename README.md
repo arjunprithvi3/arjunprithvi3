@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋 I'm Arjun Prithvi <br><br>AI Engineer | Building Real-World GenAI Systems 🚀<br><br>I'm passionate about designing and building intelligent applications powered by LLMs, RAG pipelines, vector databases, and agentic workflows. My goal is to move beyond basic chatbots and create AI systems that solve real-world problems and deliver measurable impact.<br>I'm focused on building production-ready AI applications while leveraging my backend engineering experience to develop scalable, reliable, and maintainable systems.<br><br>🌱 Currently I'm aligned with:<br>Agentic AI Systems<br>Multi-Agent Architectures<br>LangGraph<br>Advanced RAG Pipelines<br>Vector Databases (FAISS & ChromaDB)<br>LLM Evaluation & Observability<br>Prompt Engineering<br>FastAPI for AI Applications<br>AI System Design<br>MLOps Fundamentals<br><br>👯 Looking to Collaborate On<br>AI Engineer Projects<br>Generative AI Applications<br>Agentic AI Workflows<br>Open Source AI Tools<br>RAG-Based Platforms<br>Career & Education AI Solutions<br>Knowledge Management Systems<br>LLM-Powered Products<br><br>💡 Interests<br>Generative AI<br>Artificial Intelligence<br>Agent Design<br>Retrieval-Augmented Generation (RAG)<br>LLM Applications<br>Knowledge Graphs<br>AI Product Engineering<br>Backend Architecture<br><br>🎯 Current Mission<br>To become a high-impact AI Engineer capable of designing, building, and deploying intelligent systems that help people make better decisions, learn faster, and grow professionally.<br><br>📚 What I'm Building Toward<br>AI Engineer<br>GenAI Engineer<br>Applied AI Engineer<br>LLM Application Developer<br><br>⚡ Fun Facts<br>I enjoy building AI systems phase-by-phase from architecture to deployment.<br>I prefer solving real business problems over creating demo chatbots.<br>Most of my weekends are spent experimenting with LLMs, RAG pipelines, and AI agents.<br>I started as a Backend Engineer and am actively engineering my transition into AI.<br>
 
-<!--
-**arjunprithvi3/arjunprithvi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arjunprithvi3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=arjunprithvi3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arjunprithvi3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arjunprithvi3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arjunprithvi3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
